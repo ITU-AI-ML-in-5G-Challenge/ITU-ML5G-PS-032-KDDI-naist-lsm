@@ -45,7 +45,6 @@ python plot.py                        # create the demonstration movie
 
 <!-- ### Comparison performance -->
 ### Brief demonstration
-[](https://img.youtube.com/vi/HqRSd6vzLb4/0.jpg)[]
 [![Brief demonstration](http://img.youtube.com/vi/HqRSd6vzLb4/0.jpg)](http://www.youtube.com/watch?v=HqRSd6vzLb4)
 ## References
 * [ITU AI/ML in 5G Challenge](https://www.itu.int/en/ITU-T/AI/challenge/2020/Pages/default.aspx)
