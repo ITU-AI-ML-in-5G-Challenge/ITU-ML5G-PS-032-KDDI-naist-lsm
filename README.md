@@ -43,6 +43,9 @@ optional arguments:
 python plot.py                        # create the demonstration movie
 ```
 
+## Report
+Available [here](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-032-KDDI-naist-lsm/blob/main/PS-032-KDDI-naist-lsm_report.pdf).
+
 <!-- ### Comparison performance -->
 ### Brief demonstration
 [![Brief demonstration](http://img.youtube.com/vi/HqRSd6vzLb4/0.jpg)](http://www.youtube.com/watch?v=HqRSd6vzLb4)
